@@ -1,4 +1,5 @@
-# I will be carrying out EDA to uncover and visualise the main influences and factors involved in passenger 
+# Kaggle Titanic Challenge
+I will be carrying out EDA to uncover and visualise the main influences and factors involved in passenger 
 deaths and survival on the Titanic.
 
 The data set gave me information about the passengers on-board. Here are the variable notes for the dataset:
